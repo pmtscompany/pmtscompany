@@ -2,7 +2,7 @@
 
 ## Somos um gropo ascendente de programação!
 
-- 🔭 Estamos em busca de aprimorar meu conhecimento base sobre programação.
+- 🔭 Estamos em busca de aprimorar nosso conhecimento sobre programação.
 - 🌱 Atualmente estamos iniciando o projeto Food-&-Fast.
 - ⚡ Curiosidade: Atualmente o nosso grupo tem quatro integrantes.
 
